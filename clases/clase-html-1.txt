@@ -1,0 +1,37 @@
+El lenguaje HTML, significa, en inglés, Lenguaje de etiquetas de Hiper texto.
+Este lenguaje, no es para programar acciones, sino, para definir puntos y acentos en un texto.
+Por esta fecha, septiembre de 2025, el estándar de HTML es el 5, e incluye un montón de etiquetas multimedio, como por ejemplo, la etiqueta "audio".
+
+HTML se usa, como estándar, para hacer páginas de internet, que se puedan ver, en cualquier navegador o dispositivo.
+Con el paso del tiempo, se agregaron otras tecnologías al estándar: CSS (hojas de estilo en cascada), Javascript (lenguaje de programación inspirado en Java), etcétera.
+
+Para escribir un documento HTML, hay reglas para seguir.
+La primera y más importante, es que, las etiquetas de marcado, llevan los símbolos < (menor que...) y > (mayor que). Entonces, para poner un objeto de audio en un documento HTML, se escribe "<audio>".
+La segunda regla, es que el texto que se escriba afuera de las etiquetas o marcas, se mostrará como texto. Por ejemplo: <p> Esto es un párrafo </p> Este texto está afuera del párrafo.
+La tercer regla, es que, todas las etiquetas tienen que tener su etiqueta de cierre. El cierre, es el mismo nombre de la etiqueta, pero con el símbolo / (barra de división). 
+Un ejemplo sería: 
+<head>
+<title> Mi página en internet </title>
+<meta charset="UTF-8" />
+</head>
+
+Y ustéd dirá: ¡Oiga! Porqué la etiqueta <meta> no tiene su cierre </meta>, eh? Responda por favor...
+Y la respuesta es simple: <meta> no es una etiqueta en sí, sino una definición dentro del estándar. Tal vez usted quiera hacer una página web en español, o con ciertos colores, pero para que sea un documento visible y dentro del estándar, hay que definir LA INTENCIÓN.
+Si usted hace una página web, para compartir música, sería recomendable que identifique el lenguaje de esa música.
+
+Ahora, un ejemplo práctico: la estructura HTML más básica
+<html>
+<head>
+<title> Página básica </title>
+</head>
+<body>
+<h1>Hola, bienvenidos a mi Página Básica.</h1>
+<p>Este es un párrafo, que es una unidad de texto. Si quiere aplicar estilos en este párrafo, entonces esos estilos, quedarán agrupados en esta etiqueta <p>
+<body>
+
+La cuarta regla de html, es que no hay diferencia entre mayúsculas y minúsculas en las etiquetas. Entonces, <body> funciona igual que <BODY>.
+
+Hay más reglas, pero para ser la primer clase, es suficiente. Como tarea para realizar, haga un archivo de texto, con un nombre simple, por ejemplo "clase1.html", y arme la estructura básica que se explicó anteriormente.
+Abrazo.
+Ramiro Ríos.
+

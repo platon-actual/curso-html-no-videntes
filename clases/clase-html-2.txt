@@ -1,0 +1,13 @@
+Hola, este es el apunte de la segunda clase de HTML con accesibilidad.
+En esta clase, vamos a ver las siguientes etiquetas:
+<audio>, que es para vincular archivos de sonido,
+<ol>, que son listas ordenadas, con numeración,
+<ul>, que son listas, pero sin numeración,
+<li>, que son los elementos de cada lista,
+y a aprender algunos atributos de las etiquetas, entre ellos:
+src, proviene de "source", es para vincular un archivo a un elemento HTML,
+por ejemplo: <audio src="música.mp3"></audio>
+alt, es para agregar una descripción alternativa a elementos, entre ellos las imágenes.
+por ejemplo: <a href="www.google.com" alt="link para ir a google"> Ir al buscador Google </a>
+y por último, un repaso sobre las etiquetas <h1> hasta <h6>
+
