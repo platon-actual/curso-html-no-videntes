@@ -1,0 +1,21 @@
+Hola, en esta clase, vamos a ver las etiquetas de encabezados (títulos).
+También las etiquetas de menú. Y si alcanza el tiempo, los elementos <button> que son botones para realizar acciones.
+
+Los encabezados se marcan con las etiquetas h1, h2, h3, h4, h5 y h6.
+Las prácticas recomendadas, sugieren utilizar solo una etiqueta h1 en cada página.
+Esta etiqueta h1, suele llevar el título al principio de la página. Pero se le puede poner una descripción de la misma, junto con el título.
+Este es un ejemplo:
+<h1> Mi blog personal: lista de películas. </h1>
+
+Las etiquetas h2 hasta h6, son subtítulos, y sirven para identificar párrafos, listas, y otros grupos de etiquetas.
+Otro ejemplo, con una lista a continuación:
+<h2> Películas de drama <h2>
+<menu>
+<li>Shrek (2001)</li>
+<li>Monty Python and the Holy Grail (1975)</li>
+<li>La belle verté (1996)</li>
+</menu>
+
+Fíjese que, en vez de utilizar <ul> en la lista (o <ol> para listas numeradas) se usó <menu>.
+<menu> funciona igual que una lista desordenada <ul>, llevando adentro, elementos <li>.
+
